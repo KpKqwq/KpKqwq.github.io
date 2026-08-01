@@ -23,7 +23,7 @@ During my master's study at Yangzhou University, I was advised by <a href='https
 
 # Research Interests
 
-My current research focuses on **Efficient and Interpretable Reasoning**. Previously, my research focused on **Text Simplification**.
+My current research focuses on **Efficient and Interpretable Reasoning**. Previously, my research focused on **Multilingual Text Simplification**.
 
 # Publications
 
